@@ -347,9 +347,9 @@ See the **LICENSE** file for more information.
 
 # 👨‍💻 Author
 
-**Surya Teja**
+**Ishika Gangrade**
 
-🌐 GitHub: https://github.com/Surya63023
+🌐 GitHub:https://github.com/IshikaGangrade 
 
 If you found this project helpful, don't forget to ⭐ the repository.
 
