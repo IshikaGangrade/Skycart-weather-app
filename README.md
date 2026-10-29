@@ -135,7 +135,7 @@ SkyCart-Weather-Dashboard/
 Clone the repository
 
 ```bash
-git clone https://github.com/IshikaGangrade/Skycart
+git clone https://github.com/IshikaGangrade/Skycart.git
 ```
 
 Navigate into the project
