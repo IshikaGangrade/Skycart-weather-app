@@ -110,19 +110,13 @@ The application is built completely using **Vanilla JavaScript**, making it ligh
 SkyCart-Weather-Dashboard/
 │
 ├── index.html
-│
-├── css/
 │   └── style.css
-│
-├── js/
 │   ├── app.js
 │   ├── api.js
 │   └── ui.js
-│
 ├── assets/
 │   ├── images/
 │   └── icons/
-│
 ├── README.md
 ├── LICENSE
 └── .gitignore
